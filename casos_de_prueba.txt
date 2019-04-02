@@ -1,0 +1,63 @@
+ID
+1
+Descripción
+Prueba que el sistema que el obtenga la lista de cursos que en un alumno está matriculado en el ciclo presente.
+Funcionalidad a probar
+Mostrar lista de cursos en que un alumno está matriculado.
+Respuesta
+Éxito: El sistema muestra la lista de cursos en que se encuentra un alumno matriculado,
+
+
+Fracaso: El sistema no muestra o muestra parcialmente la lista de los cursos que un alumno está matriculado.
+Observaciones
+Además de los cursos, el aula virtual muestra al lista de los profesores.
+Nombre del tester
+Iván Yang Rodríguez Carranza
+Versión del software
+1.0
+Datos de prueba
+Código de usuario: u201311723
+
+
+ID
+2
+Descripción
+Prueba que el sistema que el obtenga la lista de anuncios de un curso específico.
+Funcionalidad a probar
+Mostrar lista de anuncios de un curso específico.
+Respuesta
+Éxito: El sistema muestra la lista de anuncios de un curso específico.
+
+
+Fracaso: El sistema no muestra o muestra parcialmente la lista de los anuncios de un curso específico.
+Observaciones
+La lista de anuncios se debe mostrar 
+Nombre del tester
+Iván Yang Rodríguez Carranza
+Versión del software
+1.0
+Datos de prueba
+Código de usuario: u201311723
+Identificador del curso: 1
+
+
+ID
+3
+Descripción
+Prueba que el sistema autentique correctamente al usuario.
+Funcionalidad a probar
+Autenticación del sistema
+Respuesta
+Éxito: El sistema autentica correctamente al alumno y redirige a la página principal del aula virtual.
+
+
+Fracaso: El sistema no realiza ninguna acción o no autentica correctamente al alumno.
+Observaciones
+El usuario y contraseña de pruebas son correctos.
+Nombre del tester
+Iván Yang Rodríguez Carranza
+Versión del software
+1.0
+Datos de prueba
+Código de usuario: u000000000
+Contraseña: 000000000
